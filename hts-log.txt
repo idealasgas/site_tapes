@@ -1,0 +1,32 @@
+HTTrack3.48-21 launched on Mon, 26 Nov 2018 11:28:52 at x-tape.ru
+(winhttrack x-tape.ru -O "/home/idealasgas/websites/tapes" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:30:55	Error: 	"Not Found" (404) at link x-tape.ru/test (from x-tape.ru/)
+11:32:59	Error: 	"Not Found" (404) at link x-tape.ru/theme/fonts/glyphicons-halflings-regular.eot (from x-tape.ru/assets/components/minifyx/cache/styles_c96bfcd023.min.css)
+11:32:59	Error: 	"Not Found" (404) at link x-tape.ru/theme/fonts/glyphicons-halflings-regular.eot? (from x-tape.ru/assets/components/minifyx/cache/styles_c96bfcd023.min.css)
+11:32:59	Error: 	"Not Found" (404) at link x-tape.ru/theme/fonts/glyphicons-halflings-regular.woff2 (from x-tape.ru/assets/components/minifyx/cache/styles_c96bfcd023.min.css)
+11:32:59	Error: 	"Not Found" (404) at link x-tape.ru/theme/fonts/glyphicons-halflings-regular.woff (from x-tape.ru/assets/components/minifyx/cache/styles_c96bfcd023.min.css)
+11:32:59	Error: 	"Not Found" (404) at link x-tape.ru/theme/fonts/glyphicons-halflings-regular.ttf (from x-tape.ru/assets/components/minifyx/cache/styles_c96bfcd023.min.css)
+11:32:59	Error: 	"Not Found" (404) at link x-tape.ru/theme/fonts/glyphicons-halflings-regular.svg (from x-tape.ru/assets/components/minifyx/cache/styles_c96bfcd023.min.css)
+11:32:59	Error: 	"Not Found" (404) at link x-tape.ru/theme/css/owl.video.play.png (from x-tape.ru/assets/components/minifyx/cache/styles_c96bfcd023.min.css)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/proisxozhdenie-kinezio-tejpa.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/kinezio-tejp-x-tape-ot-morshhin.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/primenenie-kinezio-tejpov-x-tape-dlya-korrekczii-osanki.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/primenenie-tejpov-x-tape-pri-varikoze.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/primenenie-kinezio-tejpov-x-tape-dlya-detej.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/sportivnyij-kinezio-tejp-x-tape.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/primenenie-kinezio-–-tejpa-x-tape-dlya-pozvonochnika.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/tejpyi-x-tape-pri-rastyazheniyax-golenostopa.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/razlichie-x-tape-tejpov-po-czvetam.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/kak-nakladyivat-tejpyi-x-tape.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/kak-rabotayut-tejpyi-x-tape.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Forbidden" (403) at link https://x-tape.ru/direction/protivopokazaniya.html (from https://x-tape.ru/direction/)
+11:33:41	Error: 	"Not Found" (404) at link x-tape.ru/Popover requires tooltip.js (from x-tape.ru/assets/components/minifyx/cache/scripts_bbba7cf5c2.min.js)
+
+HTTrack Website Copier/3.48-21 mirror complete in 4 minutes 49 seconds : 396 links scanned, 373 files written (19491396 bytes overall) [18409745 bytes received at 63701 bytes/sec], 2323979 bytes transferred using HTTP compression in 103 files, ratio 26%, 11.0 requests per connection
+(21 errors, 0 warnings, 0 messages)
